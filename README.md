@@ -27,6 +27,7 @@ A full-stack emergency response web application that connects users to the neare
 
 ## Project Structure
 
+```
 emergency-app/
 ├── Backend/
 │   ├── prisma/
@@ -38,11 +39,12 @@ emergency-app/
 │   │   └── index.ts
 │   └── prisma.config.ts
 └── Frontend/
-└── src/
-├── pages/
-├── components/
-├── api/
-└── context/
+    └── src/
+        ├── pages/
+        ├── components/
+        ├── api/
+        └── context/
+```
 
 ## API Endpoints
 
